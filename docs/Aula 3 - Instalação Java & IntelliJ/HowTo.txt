@@ -1,0 +1,8 @@
+Para realizar o download do software IntelliJ basta acessar o link abaixo 
+ou baixar pela Loja de applicativos do seu Sistema Operacional (no caso de Linux e Mac).
+
+https://www.jetbrains.com/idea/download/
+
+Para realizar o download do software Java basta abrir o terminal e digitar o comando abaixo:
+
+sudo apt-get install openjdk-8-jdk
