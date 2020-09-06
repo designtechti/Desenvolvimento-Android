@@ -1,0 +1,4 @@
+Para realizar o download do software Android Studio basta acessar o link abaixo 
+ou baixar pela Loja de applicativos do seu Sistema Operacional (no caso de Linux e Mac).
+
+https://developer.android.com/studio?hl=pt-br
